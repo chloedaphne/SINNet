@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chloé Clavel
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Chloé
+last_name: Clavel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Director in Social Computing
 
 # Organizations/Affiliations
 organizations:
