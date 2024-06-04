@@ -14,28 +14,18 @@ role: Research Director in Social Computing
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: INRIA Paris
+    url: 'https://www.inria.fr/en/inria-paris-centre'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  My research interests are in the areas of Affective Computing and Artificial Intelligence that lie at the crossroad of multiple disciplines including, speech and natural language processing, machine learning, and social robotics. I study computational models of socio-emotional behaviors (e.g., sentiments, social stances, engagement, trust) in interactions be it human-human interactions (social networks, job interviews) or human-agent interactions (conversational agents, social robots).
 
 interests:
+  - Natural Language Processing
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Affective/Social Computing
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +34,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:chloe.clavel@inria.fr'
+  - icon: website
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://clavel.wp.imt.fr/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.fr/citations?user=TAZbfksAAAAJ&hl=en 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/chloedaphne 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +62,12 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Home
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Senior Researcher in the ALMAnaCH team at INRIA Paris (the French national research institute for digital science and technology). Until October 2023, I was a Professor of Affective Computing at LTCI, Telecom-Paris, Institut Polytechnique de Paris, where I coordinated the Social Computing team. My research interests are in the areas of Affective Computing and Artificial Intelligence that lie at the crossroad of multiple disciplines including, speech and natural language processing, machine learning, and social robotics. I study computational models of socio-emotional behaviors (e.g., sentiments, social stances, engagement, trust) in interactions be it human-human interactions (social networks, job interviews) or human-agent interactions (conversational agents, social robots).
+
+I am motivated by application areas such as health and education, where research in affective computing and artificial intelligence is dedicated to empowering people and improving their quality of life.
+
+My research is/has been supported by projects funded by prestigious and competitive grants such as the H2020 ITN ANIMATAS project (Advancing intuitive human-machine interaction with human-like social capabilities for education in schools), or the National French Project (ANR) – SINNet (Socio-Inspired Neural Networks).
+
+
