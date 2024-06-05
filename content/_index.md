@@ -10,9 +10,10 @@ sections:
       title: |
         SINNet 
       image:
-        filename: SINNetLogo.jpg
+        filename: icon.png
       text: |
-        Socio-Inspired Neural networks - Research Project funded by ANR
+        Socio-Inspired Neural networks 
+        Research Project funded by ANR
       
         
         
