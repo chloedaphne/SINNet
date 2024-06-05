@@ -15,11 +15,12 @@ sections:
       text: |
         Socio-Inspired Neural networks 
         Research Project funded by ANR
- - block: markdown
+  - block: markdown
     content:
       title: Abstract
       subtitle: My subtitle
       text: blablabla
+ 
   - block: markdown
     content:
       title:
