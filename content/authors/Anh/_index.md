@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Anh Ngo
+title: Anh Ha Ngo
 
 # Full name (for SEO)
-first_name: Anh
+first_name: Anh Ha
 last_name: Ngo
 
 # Username (this should match the folder name)
 authors:
-  - Anh Ngo
+  - Anh Ha Ngo
 
 # Is this the primary user of the site?
 superuser: false
