@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: people
+    url: about
     weight: 10
   - name: Team
     url: people
