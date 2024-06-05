@@ -3,6 +3,8 @@
 title:
 date: 2022-10-24
 type: landing
+text: |
+  bla
 
 sections:
   - block: hero
@@ -14,8 +16,6 @@ sections:
       text: |
         Socio-Inspired Neural networks 
         Research Project funded by ANR
-  text: |
-        blablabla
   - block: markdown
     content:
       title:
