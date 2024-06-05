@@ -10,7 +10,7 @@ sections:
       title: |
         SINNet 
       image:
-        filename: welcome.jpg
+        filename: icon.png
       text: |
         Socio-Inspired Neural networks 
         Research Project funded by ANR
@@ -24,7 +24,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: icon.png
+          filename: welcome.jpg
           filters:
             brightness: 1
           parallax: false
