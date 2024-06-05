@@ -14,8 +14,8 @@ sections:
       text: |
         Socio-Inspired Neural networks 
         Research Project funded by ANR
-    
-
+  text: |
+        blablabla
   - block: markdown
     content:
       title:
