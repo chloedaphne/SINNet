@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-The journal paper describing the main challenges of the project is putblished : Clavel, C., Labeau, M., & Cassell, J. (2023). Socio-conversational Systems: Three Challenges at the Crossroads of Fields. Frontiers in Robotics and AI, 336. 
+The journal paper describing the main challenges of the project is accepted and now available : Clavel, C., Labeau, M., & Cassell, J. (2023). Socio-conversational Systems: Three Challenges at the Crossroads of Fields. Frontiers in Robotics and AI, 336. 
 
 <!--more-->
 
