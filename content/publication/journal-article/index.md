@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Socio-conversational systems: Three challenges at the crossroads of fields"
 authors:
 - admin
 - Robert Ford
