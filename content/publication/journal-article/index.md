@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.937825/full 
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
