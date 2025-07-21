@@ -118,6 +118,6 @@ publications:
   citation_style: apa
 
 # Author Page Settings
-authors:
+author:
   show_author: true
   show_bio: true
