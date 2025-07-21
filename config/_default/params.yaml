@@ -121,3 +121,7 @@ publications:
 author:
   show_author: true
   show_bio: true
+
+# Author Page Settings
+show_author: true
+show_bio: true

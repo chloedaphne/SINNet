@@ -12,6 +12,8 @@ superuser: true
 # Role/position
 role: Research Director in Social Computing
 
+avatar: avatar.jpg
+
 # Organizations/Affiliations
 organizations:
   - name: INRIA Paris
@@ -61,9 +63,6 @@ highlight_name: false
 user_groups:
   - Principal Investigator
 ---
-
-Home
-
 I am a Senior Researcher in the ALMAnaCH team at INRIA Paris (the French national research institute for digital science and technology). Until October 2023, I was a Professor of Affective Computing at LTCI, Telecom-Paris, Institut Polytechnique de Paris, where I coordinated the Social Computing team. My research interests are in the areas of Affective Computing and Artificial Intelligence that lie at the crossroad of multiple disciplines including, speech and natural language processing, machine learning, and social robotics. I study computational models of socio-emotional behaviors (e.g., sentiments, social stances, engagement, trust) in interactions be it human-human interactions (social networks, job interviews) or human-agent interactions (conversational agents, social robots).
 
 I am motivated by application areas such as health and education, where research in affective computing and artificial intelligence is dedicated to empowering people and improving their quality of life.
