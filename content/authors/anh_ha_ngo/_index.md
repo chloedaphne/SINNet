@@ -5,7 +5,7 @@ title: Ha Anh Ngo
 
 # Username (this should match the folder name)
 authors:
-- anh_ha_ngo
+  - anh_ha_ngo
 
 # Full Name (for SEO)
 
@@ -27,24 +27,22 @@ avatar: anh.jpg
 # Organizations/Affiliations
 
 organizations:
-
-- name: INRIA Paris
-url: 'https://www.inria.fr/en/inria-paris-centre'
-- name: Sorbonne Université
-url: 'https://www.isir.upmc.fr/'
+  - name: INRIA Paris
+    url: 'https://www.inria.fr/en/inria-paris-centre'
+  - name: Sorbonne Université
+    url: 'https://www.isir.upmc.fr/'
 
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 
 bio: I'm a PhD student at Inria Paris in the ALMAnaCH team, specializing in multimodal modeling of conversational repair strategies. My research focuses on exploring repair patterns in human-human interaction and developing AI models that use multimodal cues to detect repair requests and generate appropriate repair solutions for embodied conversational agents.
 
 interests:
-
-- Natural Language Processing
-- Artificial Intelligence
-- Multimodal Deep Learning
-- Computational Linguistics
-- Human-human Interaction
-- Human-agent Interaction
+  - Natural Language Processing
+  - Artificial Intelligence
+  - Multimodal Deep Learning
+  - Computational Linguistics
+  - Human-human Interaction
+  - Human-agent Interaction
 
 # Social/Academic Networking
 
@@ -55,19 +53,18 @@ interests:
 # form "[mailto:your-email@example.com](mailto:your-email@example.com)" or "#contact" for contact widget.
 
 social:
-
-- icon: envelope
-icon_pack: fas
-link: 'mailto:anh.ngo-ha@inria.fr'
-- icon: website
-icon_pack: fab
-link: https://haanh764.github.io/ha-anh-ngo/
-- icon: google-scholar
-icon_pack: ai
-link: https://scholar.google.com/citations?hl=en&user=_lyjI-sAAAAJ
-- icon: github
-icon_pack: fab
-link: https://github.com/haanh764
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:anh.ngo-ha@inria.fr'
+  - icon: website
+    icon_pack: fab
+    link: https://haanh764.github.io/ha-anh-ngo/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=_lyjI-sAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/haanh764
 
 # Link to a PDF of your resume/CV from the About widget.
 
@@ -100,8 +97,7 @@ highlight_name: false
 # current options (we might change the list): Principal Investigator, Researchers, Grad Students, Administration, Visitors, Alumni.
 
 user_groups:
-
-- Researchers
+  - Researchers
 
 # add your long bio under the three hyphens:
 
