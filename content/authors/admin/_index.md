@@ -2,11 +2,6 @@
 # Display name
 title: Chloé Clavel
 
-# Username (this should match the folder name)
-authors:
-- admin
-
-
 # Full Name (for SEO)
 first_name: Chloé
 last_name: Clavel
