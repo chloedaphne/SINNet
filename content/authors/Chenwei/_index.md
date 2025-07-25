@@ -8,7 +8,7 @@ last_name: Wan
 
 # Username (this should match the folder name)
 authors:
-  - Chenwei Wan
+  - Chenwei
 
 # Is this the primary user of the site?
 superuser: false

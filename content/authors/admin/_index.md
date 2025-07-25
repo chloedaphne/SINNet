@@ -2,6 +2,11 @@
 # Display name
 title: Chloé Clavel
 
+# Username (this should match the folder name)
+authors:
+- admin
+
+
 # Full Name (for SEO)
 first_name: Chloé
 last_name: Clavel
@@ -54,8 +59,6 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
-profile: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

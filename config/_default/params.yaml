@@ -116,22 +116,3 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
-
-# Author Page Settings
-author:
-  show_author: true
-  show_bio: true
-  show: true
-  show_social: true
-
-# Author Page Settings
-show_author: true
-show_bio: true
-show: true
-show_social: true
-
-authors_page:
-  show: true
-  show_social: true
-  show_avatar: true
-  show_bio: true

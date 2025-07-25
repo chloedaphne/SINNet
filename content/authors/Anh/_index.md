@@ -2,6 +2,10 @@
 # Display name
 title: Anh Ha Ngo
 
+# Username (this should match the folder name)
+authors:
+- Anh
+
 # Full name (for SEO)
 first_name: Anh Ha
 last_name: Ngo
