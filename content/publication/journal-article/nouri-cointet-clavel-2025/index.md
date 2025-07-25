@@ -5,7 +5,7 @@ authors:
 - Jean-Philippe Cointet
 - Chloé Clavel
 date: '2025-04-01'
-publishDate: '2025-07-21T12:49:53.992598Z'
+publishDate: '2025-07-25T15:44:53.956700Z'
 publication_types:
 - article-journal
 publication: '*arXiv*'
