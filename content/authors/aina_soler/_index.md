@@ -26,7 +26,7 @@ organizations:
     url: 'https://www.inria.fr/en/inria-paris-centre'
 
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
-bio:  I'm a postdoctoral researcher at INRIA Paris, within the ALMAnaCH team. My broad research area is Natural Language Processing, and more concretely Computational Lexical Semantics. In my postdoc, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
+bio:  I'm a postdoctoral researcher at INRIA Paris, within the ALMAnaCH team. My broad research area is Natural Language Processing, and more concretely Computational Lexical Semantics. In my postdoc, I investigate the dynamics of word meaning in dialog - how speakers understand, negotiate and adapt their word usage in interaction.
  
 interests:
   - Natural Language Processing
