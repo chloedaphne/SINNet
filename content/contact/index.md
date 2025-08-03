@@ -21,8 +21,8 @@ sections:
         country: France
         country_code: FR
       coordinates:
-        latitude: '48.82637868330784', #'37.4275'
-        longitude: '2.3464343141583934' #'-122.1697'
+       latitude: '48.82637868330784', #'37.4275'
+       longitude: '2.3464343141583934' #'-122.1697'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
