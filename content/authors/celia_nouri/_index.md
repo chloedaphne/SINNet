@@ -29,7 +29,7 @@ organizations:
 
  
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
-bio:  >
+bio: >
 I'm a PhD student at Inria Paris (ALMAnaCH) and Sciences Po (médialab). I explore how subjectivity, belief systems, and social influence shape opinion dynamics in digital ecosystems. I develop hybrid AI models that combine language and graph-based approaches to better understand online discourse, detect hate speech in context, and map collective ideologies across social networks. 
 
  
