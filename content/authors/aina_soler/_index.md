@@ -26,7 +26,8 @@ organizations:
     url: 'https://www.inria.fr/en/inria-paris-centre'
 
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
-bio:  I'm a postdoctoral researcher at INRIA Paris, within the ALMAnaCH team. My broad research area is Natural Language Processing, and more concretely Computational Lexical Semantics. In my postdoc, I investigate the dynamics of word meaning in dialog":" how speakers understand, negotiate and adapt their word usage in interaction.
+bio:  >
+I'm a postdoctoral researcher at INRIA Paris, within the ALMAnaCH team. My broad research area is Natural Language Processing, and more concretely Computational Lexical Semantics. In my postdoc, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
  
 interests:
   - Natural Language Processing
@@ -81,5 +82,5 @@ Since September 2021, I’ve been a postdoctoral researcher working with Chloé 
 
 I did my PhD at the LISN lab (former LIMSI), Paris-Saclay University, under the supervision of Marianna Apidianaki and Alexandre Allauzen. My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR MultiSem project.
 
-My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my postdoc, I investigate the dynamics of word meaning in dialog":" how speakers understand, negotiate and adapt their word usage in interaction.
+My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my postdoc, I investigate the dynamics of word meaning in dialog, that is, how speakers understand, negotiate and adapt their word usage in interaction.
 
