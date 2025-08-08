@@ -1,44 +1,35 @@
 ---
 # Display name
-
 title: Yi YU
-
 
 # Username (this should match the folder name)
 authors:
 - yi_yu
 
 # Full Name (for SEO)
-
 first_name: Yi
 last_name: YU
 
 # Is this the primary user of the site? (true for Chloé, false for everyone else)
-
 superuser: false
 
 # Role/position
-
 role: PhD Student
 
 # Indicate the filename of your picture in SINNet_profile_pictures
-
 avatar:
 
 # Organizations/Affiliations
-
 organizations:
-
 - name: INRIA Paris
-url: 'https://www.inria.fr/en/inria-paris-centre'
+  url: 'https://www.inria.fr/en/inria-paris-centre'
 
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 
 bio:  >
-  I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on analyzing human capacity in collaboration using conversational data. 
+I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on analyzing human capacity in collaboration using conversational data. 
 
 interests:
-
 - Computational Linguistics
 - Cognitive Science
 - Humanity Computing
@@ -56,41 +47,30 @@ interests:
 social:
 
 - icon: envelope
-icon_pack: fas
-link: 'mailto:yi.yu@inria.fr'
+  icon_pack: fas
+  link: 'mailto:yi.yu@inria.fr'
 
 # Link to a PDF of your resume/CV from the About widget.
-
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
 # icon: cv
-
 # icon_pack: ai
-
 # link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
 email: ''
 
 # ignore:
-
 profile: true
 
 # also ignore
-
 # Highlight the author in author lists? (true/false)
-
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-
 # Set this to `[]` or comment out if you are not using People widget.
-
 # current options (we might change the list): Principal Investigator, Researchers, Grad Students, Administration, Visitors, Alumni.
 
 user_groups:
-
 - Researchers
 
 # add your long bio under the three hyphens:
