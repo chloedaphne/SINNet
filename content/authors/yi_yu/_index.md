@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yi YU
+title: Yi Yu
 
 # Username (this should match the folder name)
 authors:
@@ -8,7 +8,7 @@ authors:
 
 # Full Name (for SEO)
 first_name: Yi
-last_name: YU
+last_name: Yu
 
 # Is this the primary user of the site? (true for Chloé, false for everyone else)
 superuser: false
