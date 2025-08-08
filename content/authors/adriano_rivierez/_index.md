@@ -77,3 +77,4 @@ user_groups:
 
 # add your long bio under the three hyphens:
 ---
+I’m an intern at INRIA Paris. I’m currently working with Ha Anh Ngo (Inria, ALMAnaCH team) about the annotation of Other intiated-repair within the NOXI corpus.
