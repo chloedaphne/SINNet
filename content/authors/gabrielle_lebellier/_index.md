@@ -2,6 +2,10 @@
 
 title: Gabrielle Le Bellier
 
+# Username (this should match the folder name)
+authors:
+- gabrielle_lebellier
+
 # Full Name (for SEO)
 
 first_name: Gabrielle
