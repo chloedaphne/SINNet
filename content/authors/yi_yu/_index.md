@@ -21,18 +21,18 @@ avatar:
 
 # Organizations/Affiliations
 organizations:
-- name: INRIA Paris
-  url: 'https://www.inria.fr/en/inria-paris-centre'
+  - name: INRIA Paris
+    url: 'https://www.inria.fr/en/inria-paris-centre'
 
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 
 bio: I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on analyzing human capacity in collaboration using conversational data. 
 
 interests:
-- Computational Linguistics
-- Cognitive Science
-- Humanity Computing
-- Natural Language Processing
+  - Computational Linguistics
+  - Cognitive Science
+  - Humanity Computing
+  - Natural Language Processing
 
 
 # Social/Academic Networking
@@ -70,7 +70,7 @@ highlight_name: false
 # current options (we might change the list): Principal Investigator, Researchers, Grad Students, Administration, Visitors, Alumni.
 
 user_groups:
-- Researchers
+  - Researchers
 
 # add your long bio under the three hyphens:
 
