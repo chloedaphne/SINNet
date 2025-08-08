@@ -1,6 +1,5 @@
 ---
 # Display name
-
 title: Gabrielle Le Bellier
 
 # Username (this should match the folder name)
@@ -13,11 +12,9 @@ first_name: Gabrielle
 last_name: Le Bellier
 
 # Is this the primary user of the site? (true for Chloé, false for everyone else)
-
 superuser: false
 
 # Role/position
-
 role: PhD Student
 
 # Indicate the filename of your picture in SINNet_profile_pictures
@@ -27,9 +24,8 @@ avatar:
 # Organizations/Affiliations
 
 organizations:
-
-- name: INRIA Paris
-url: 'https://www.inria.fr/en/inria-paris-centre'
+  - name: INRIA Paris
+    url: 'https://www.inria.fr/en/inria-paris-centre'
 
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 
@@ -38,10 +34,10 @@ bio:  >
 
 interests:
 
-- Natural Language Processing
-- Artificial Intelligence
-- Cultural bias
-- Bias mitigation
+  - Natural Language Processing
+  - Artificial Intelligence
+  - Cultural bias
+  - Bias mitigation
 
 
 # Social/Academic Networking
@@ -53,10 +49,9 @@ interests:
 # form "[mailto:your-email@example.com](mailto:your-email@example.com)" or "#contact" for contact widget.
 
 social:
-
-- icon: envelope
-icon_pack: fas
-link: 'mailto:gabrielle.le-bellier@inria.fr'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:gabrielle.le-bellier@inria.fr'
 
 # Link to a PDF of your resume/CV from the About widget.
 
@@ -89,8 +84,7 @@ highlight_name: false
 # current options (we might change the list): Principal Investigator, Researchers, Grad Students, Administration, Visitors, Alumni.
 
 user_groups:
-
-- Researchers
+  - Researchers
 
 # add your long bio under the three hyphens:
 
