@@ -34,7 +34,7 @@ url: 'https://www.inria.fr/en/inria-paris-centre'
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 
 bio:  >
-I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on cultural bias and culture awareness in LLMs. I explore how LLMs are biased towards some cultures, and I'm using methods of controlled text generation to produce culturally-oriented answers that are not stereotypical. 
+  I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on cultural bias and culture awareness in LLMs. I explore how LLMs are biased towards some cultures, and I'm using methods of controlled text generation to produce culturally-oriented answers that are not stereotypical. 
 
 interests:
 
