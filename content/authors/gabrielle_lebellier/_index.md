@@ -1,3 +1,4 @@
+---
 # Display name
 
 title: Gabrielle Le Bellier
@@ -94,4 +95,9 @@ user_groups:
 # add your long bio under the three hyphens:
 
 ---
-test
+
+I'm a first-year PhD candidate at ALMAnaCH (Inria Paris), co-supervised by Benoît Sagot and Chloé Clavel. My research focuses on controlled generation for bias mitigation and cultural awareness in conversational language models. 
+
+During my MVA master at ENS Paris-Saclay, I completed my end-of-studies internship at ALMAnaCH, co-supervised by Benoît Sagot and Chloé Clavel. My internship focused on gender bias mitigation in occupation classification, using disentanglement methods. 
+
+Following my internship, I decided to pursue a PhD in the ALMAnaCH project-team. My research focuses on cultural bias and culture awareness in LLMs. Instead of viewing LLMs as culturally biased models that need to be debiased toward a fictive "neutral" culture, we argue that the culture exhibited by LLMs should be controlled rather than mitigated. From this perspective, we use controlled text generation to specialize the models in specific cultures. In particular, culturally specialized conversational models are essential for interacting with users from diverse cultural backgrounds, especially those from low-resource ones. 
