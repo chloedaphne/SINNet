@@ -35,7 +35,7 @@ url: 'https://www.inria.fr/en/inria-paris-centre'
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 
 bio:  >
-I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on analyzing human capacity in collaboration using conversational data. 
+  I'm a first-year PhD student at Inria Paris, within the ALMAnaCH team. My research focuses on analyzing human capacity in collaboration using conversational data. 
 
 interests:
 
