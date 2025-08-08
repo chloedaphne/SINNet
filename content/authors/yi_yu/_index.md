@@ -1,3 +1,4 @@
+---
 # Display name
 
 title: Yi YU
@@ -95,6 +96,7 @@ user_groups:
 # add your long bio under the three hyphens:
 
 ---
+
 I'm a first-year PhD candidate at ALMAnaCH (Inria Paris), co-supervised by Chloé Clavel and Maria Boritchev. My research focuses on automatic analysis of human capacity in collaboration.
 
 I obtained my engineer degree from INSA ROUEN in 2016, major in Information System Architecture (ASI) with a specialty in Machine Learning. I obtained a master degree in the same year in Multimedia Information Processing System (STIM) from University of Rouen. Before applying to my PhD study in 2024, i worked on NLP application in industry. My experience spans document classification, information retrieval, and client relationship management systems, with a strong emphasis on building scalable, real-world solutions.
