@@ -2,6 +2,11 @@
 
 title: Yi YU
 
+
+# Username (this should match the folder name)
+authors:
+- yi_yu
+
 # Full Name (for SEO)
 
 first_name: Yi
