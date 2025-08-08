@@ -5,7 +5,6 @@ title: Célia Nouri
 # Username (this should match the folder name)
 authors:
 - celia_nouri
-
  
 # Full Name (for SEO)
 first_name: Célia
@@ -27,10 +26,10 @@ organizations:
   - name: Sciences Po Paris
     url: 'https://medialab.sciencespo.fr'
 
- 
+
 # Short bio (displayed in user profile at end of posts) (long bio comes later)
 bio:  >
-  I'm a PhD student at Inria Paris (ALMAnaCH) and Sciences Po (médialab). I explore how subjectivity, belief systems, and social influence shape opinion dynamics in digital ecosystems. I develop hybrid AI models that combine language and graph-based approaches to better understand online discourse, detect hate speech in context, and map collective ideologies across social networks.
+I'm a PhD student at Inria Paris (ALMAnaCH) and Sciences Po (médialab). I explore how subjectivity, belief systems, and social influence shape opinion dynamics in digital ecosystems. I develop hybrid AI models that combine language and graph-based approaches to better understand online discourse, detect hate speech in context, and map collective ideologies across social networks.
 
  
 interests:
@@ -83,6 +82,5 @@ user_groups:
 
 # add your long bio under the three hyphens:
 ---
-
 I am a PhD candidate in artificial intelligence co-supervised by Chloé Clavel (Inria, ALMAnaCH team) and Jean-Philippe Cointet (médialab, Sciences Po). My research is part of a joint exploratory initiative between Sciences Po and Inria, within the SaLM project – Socially-Aware Language Models. This project aims to rethink natural language processing models by incorporating social contexts and viewing language as a reflection of cultural and collective identities.
 My work sits at the intersection of natural language processing, social network modeling, and platform governance studies. I develop hybrid models that combine linguistic and relational representations to detect hate speech in context, analyze how users express disagreement and critique online, and examine how moderation norms and practices shape the expression of criticism across digital communities. Through this research, I seek to contribute to a deeper understanding of how digital public opinion is formed, and to support more informed and nuanced approaches to content moderation in online spaces.
