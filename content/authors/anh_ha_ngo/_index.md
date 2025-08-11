@@ -22,7 +22,7 @@ role: PhD Student
 
 # Indicate the filename of your picture in SINNet_profile_pictures
 
-avatar: anh.jpg
+#avatar: anh.jpg
 
 # Organizations/Affiliations
 
