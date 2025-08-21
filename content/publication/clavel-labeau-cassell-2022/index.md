@@ -5,7 +5,7 @@ authors:
 - Matthieu Labeau
 - Justine Cassell
 date: '2022-12-01'
-publishDate: '2025-07-25T15:44:53.949331Z'
+publishDate: '2025-08-21T16:08:32.991579Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Robotics and AI*'

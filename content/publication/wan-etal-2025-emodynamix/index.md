@@ -6,7 +6,7 @@ authors:
 - Matthieu Labeau
 - Chloé Clavel
 date: '2025-04-01'
-publishDate: '2025-07-25T15:44:53.966015Z'
+publishDate: '2025-08-21T16:08:33.070339Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2025 Conference of the Nations of the Americas Chapter

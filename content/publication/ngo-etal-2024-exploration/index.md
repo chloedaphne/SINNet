@@ -8,7 +8,7 @@ authors:
 - Catherine Pelachaud
 - Chloé Clavel
 date: '2024-09-01'
-publishDate: '2025-07-25T15:44:53.971043Z'
+publishDate: '2025-08-21T16:08:33.073973Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 25th Annual Meeting of the Special Interest Group
