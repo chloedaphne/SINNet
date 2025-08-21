@@ -56,8 +56,8 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
-          filename: contact.jpg
+        image: # Modify to the team picture.
+          filename: welcome.jpg
           filters:
             brightness: 1
           parallax: false
